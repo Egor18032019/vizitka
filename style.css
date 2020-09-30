@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "Roboto";
+  src: url("fonts/roboto.woff2") format("woff2"), url("fonts/roboto.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("fonts/robotomedium.woff2") format("woff2"), url("fonts/robotomedium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("fonts/robotobold.woff2") format("woff2"), url("fonts/robotobold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(100%);
+}
+
+.card-info {
+  max-width: 1024px;
+  margin: auto;
+  padding: 20px;
+  border: solid 8px rgba(180, 126, 126, 0.1);
+  font-family: "Roboto", "Arial", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #856A55;
+  background-color: #FEFBF2;
+}
+
+.card-info a {
+  color:#856A55;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.card-info a:hover,
+.card-info a:focus {
+  color:#BDA896;
+  transition: all 0.3s ease;
+}
+
+.card-info img {
+  display: block;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.card-info ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card-info h2 {
+  font-weight: 700;
+  color: #eec485;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.card-info h3 {
+  font-weight: 600;
+  font-size: 22px;
+  color: #eec485;
+}
+
+.card-info__about {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
+  border-bottom: 2px solid #BDA896;
+}
+
+.card-info__block {
+  margin-left: 20px;
+}
+
+.card-info__info {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-info__skills,
+.card-info__education {
+  width: calc(50% - 20px);
+}
+
+.card-info__english {
+  width: 100%;
+}
+
+.card-info__about h2 {
+  width: 100%;
+}
+
+.card-info__contacts a {
+  display: block;
+  margin: 0 0 15px 0;
+}
+
+.card-info__skills li {
+  margin: 0 0 15px 0;
+}
+
+.card-info__projects ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-info__projects li {
+  width: calc(30% - 20px);
+}
+
+.card-info__projects a {
+  display: block;
+  margin: 0 0 25px 0;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
