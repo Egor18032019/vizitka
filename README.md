@@ -2,7 +2,7 @@
 
 ## Contacts
 * email: goro4@mail.ru
-* telephone: +7-912-22-23-228
+* telegram: https://t.me/EgorPrishedko
   
 
 ## Skills
