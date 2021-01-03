@@ -17,7 +17,7 @@
 * [Map](https://goofy-swartz-e16c87.netlify.app/)
 * [JavaScript game](https://egor18032019.github.io/game-bubble-on-js/)
 * [Keksoboking](https://egor18032019.github.io/Keksobooking-2020/)
-* [TG bot](https://t.me/Planing_work_space_bot/)
+* [TG bot](https://t.me/Planing_work_space_bot/) закончился пробный период в яндек-функции.
 
 
 ## Education
