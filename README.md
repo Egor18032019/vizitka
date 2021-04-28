@@ -17,12 +17,8 @@
 * [Map](https://goofy-swartz-e16c87.netlify.app/)
 * [JavaScript game](https://egor18032019.github.io/game-bubble-on-js/)
 * [Keksoboking](https://egor18032019.github.io/Keksobooking-2020/)
-<<<<<<< HEAD
 * [GameClounOnPhaser](https://purrfect-autumn-linseed.glitch.me/login)
-=======
-* [TG bot](https://t.me/Planing_work_space_bot/) закончился пробный период в яндек-функции.
-
->>>>>>> 904baf5ad2ba9ace68f7753ca5fc8d732c3692da
+* [GameStarsOnPhaser](https://loud-horse-mackerel.glitch.me)
 
 ## Education
 
