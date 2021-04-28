@@ -18,7 +18,7 @@
 * [JavaScript game](https://egor18032019.github.io/game-bubble-on-js/)
 * [Keksoboking](https://egor18032019.github.io/Keksobooking-2020/)
 <<<<<<< HEAD
-* [TG bot](https://t.me/Planing_work_space_bot/)
+* [GameClounOnPhaser](https://purrfect-autumn-linseed.glitch.me/login)
 =======
 * [TG bot](https://t.me/Planing_work_space_bot/) закончился пробный период в яндек-функции.
 
